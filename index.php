@@ -21,7 +21,7 @@ if($validarEmail && $validarData){
 	//Swift_Mailer
 	$transport = (new Swift_SmtpTransport('smtp.gmail.com', 465, 'ssl'))
 		->setUsername('rosivan7qi@gmail.com')
-		->setPassword('.rosi123')
+		->setPassword('***')
 	;
 
 	// Create the Mailer using your created Transport
