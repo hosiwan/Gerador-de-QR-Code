@@ -1,0 +1,14 @@
+{
+    "name": "root/composer",
+    "authors": [
+        {
+            "name": "Rosivan",
+            "email": "rosivan7qi@gmail.com"
+        }
+    ],
+    "require": {
+        "endroid/qrcode": "^3.4",
+        "respect/validation": "^1.1",
+        "swiftmailer/swiftmailer": "^6.1"
+    }
+}
